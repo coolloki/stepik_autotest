@@ -1,2 +1,2 @@
 # stepik_autotest
-Домашние задания по курсу https://stepik.org/course/575
+Домашние задание https://stepik.org/lesson/237240/step/9 
